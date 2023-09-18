@@ -18,7 +18,7 @@ git clone https://github.com/oyerindedaniel/HNGX-stage-three.git
 # or with the Github CLI
 gh repo clone oyerindedaniel/HNGX-stage-three
 
-cd HNGX-stage-two
+cd HNGX-stage-three
 yarn
 yarn dev
 
